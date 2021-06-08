@@ -19,7 +19,7 @@ namespace Ventas
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Hola Mundo");
+            MessageBox.Show("Nadie es como tú, y ese es tu poder");
         }
     }
 }
